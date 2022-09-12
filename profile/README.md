@@ -12,6 +12,9 @@
 
 Modular Open Source Analog Integrated Circuits
 
+- [Website](https://www.mosaic-ic.org/)
+- [GitLab](https://gitlab.com/mosaic_group)
+
 ## Goals
 
 1. Advance the state of the art in programmatic and automated IC designCancel changes
