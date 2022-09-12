@@ -12,7 +12,7 @@
 
 Modular Open Source Analog Integrated Circuits
 
-- [Website](https://www.mosaic-ic.org/)
+- [Homepage](https://www.mosaic-ic.org/)
 - [GitLab](https://gitlab.com/mosaic_group)
 
 ## Goals
